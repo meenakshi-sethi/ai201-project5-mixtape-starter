@@ -169,7 +169,10 @@ A regression test for Issue #1 (Sunday streak) is in `tests/test_streaks.py` as 
 
 ## git log --oneline
 
+![git log screenshot](assets/log.png)
+
 ```
+4b18f45 (HEAD -> bugfix/mixtape, origin/bugfix/mixtape) docs: add submission.md with codebase map, RCAs for all 5 bugs, and AI usage section
 ddb6942 fix: remove erroneous songs[:-1] slice that dropped last playlist song
 8dd8194 fix: send song_rated notification to original sharer in rate_song()
 ca681b1 fix: add distinct() to search query to prevent duplicate results for multi-tag songs
