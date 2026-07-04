@@ -28,4 +28,7 @@ build/
 
 # Editor
 .vscode/
+
+# Project brief (not part of submission)
+project.md
 .idea/
